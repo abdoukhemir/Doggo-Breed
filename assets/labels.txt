@@ -1,0 +1,8 @@
+American Bulldog
+French Bulldog
+German Shepherd
+Golden Retriever
+Labrador Retriever
+Rottweiler
+Unrecognized
+Husky
